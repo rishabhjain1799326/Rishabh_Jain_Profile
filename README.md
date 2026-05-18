@@ -1,8 +1,8 @@
 ![Java](https://img.shields.io/badge/Java-17-orange)
+![Playwright](https://img.shields.io/badge/Playwright-MCP-blue)
 ![Selenium](https://img.shields.io/badge/Selenium-Automation-green)
-![Playwright](https://img.shields.io/badge/Playwright-Framework-blue)
 ![REST Assured](https://img.shields.io/badge/API-Testing-red)
-![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub_Actions-black)
+![CI/CD](https://img.shields.io/badge/CI/CD-Jenkins-black)
 
 # Hi, I'm Rishabh Jain 👋
 
