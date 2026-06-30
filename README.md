@@ -100,6 +100,6 @@ Experienced in enterprise automation testing, framework development, SAP automat
 ## Connect With Me
 
 📧 Rishabhjain1799@gmail.com  
-💼 linkedin.com/in/rishabh-jain-582a431b6
+💼 linkedin.com/in/rishabh-jain-sdet/
 
 ---
